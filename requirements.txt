@@ -1,0 +1,13 @@
+torch 
+torchvision 
+diffusers 
+fastapi 
+uvicorn 
+pillow 
+opencv-contrib-python
+accelerate
+xformers
+mediapipe
+controlnet_aux
+transformers
+streamlit
