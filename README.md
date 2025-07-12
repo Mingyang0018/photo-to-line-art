@@ -27,8 +27,8 @@ cd photo-to-line-art
 ### 2. Set up environment
 
 ```bash
-conda create -n line-art python=3.12 -y
-conda activate line-art
+conda create -n photo-to-line-art python=3.12 -y
+conda activate photo-to-line-art
 pip install -r requirements.txt
 ```
 

@@ -7,7 +7,8 @@ pillow
 opencv-contrib-python
 accelerate
 xformers
-mediapipe
+# mediapipe
 controlnet_aux
 transformers
 streamlit
+python-multipart
